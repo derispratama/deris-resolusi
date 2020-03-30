@@ -1,6 +1,8 @@
 RENCANA KONTENT DERIS
 
 -Javascript
+*ES6
+*Framework Javascript
 -PHP Framework
 -Interview
 -Vlog
